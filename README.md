@@ -17,5 +17,5 @@ O objetivo é integrar diferentes plataformas (como Instagram e Twitter) por mei
 
 - unific → Interface e modelos padronizados
 
-#Autor
+## Autor
 *Gabriell de Souza Zappelini*
